@@ -1,0 +1,42 @@
+[
+    {
+        "videoId": 1,
+        "userId": 1,
+        "videoTitle": "Zeliniskiy Tog'o",
+        "videoUrl": "/videos/16492925674272.mp4",
+        "videoSize": "1.3",
+        "videoCreatedAt": "Thu Apr 07 2022 05:49:27 GMT+0500 (Узбекистан, стандартное время)"
+    },
+    {
+        "videoId": 2,
+        "userId": 1,
+        "videoTitle": "Zeliniskiy",
+        "videoUrl": "/videos/164929263916016492788639722.mp4",
+        "videoSize": "1.3",
+        "videoCreatedAt": "Thu Apr 07 2022 05:50:39 GMT+0500 (Узбекистан, стандартное время)"
+    },
+    {
+        "videoId": 3,
+        "userId": 1,
+        "videoTitle": "dafasdfasfa",
+        "videoUrl": "/videos/1649292831302Dasturchilikning_qiyin_tomonlari_bormi__WsvfzbAD0lI_136.mp4",
+        "videoSize": "1.5",
+        "videoCreatedAt": "Thu Apr 07 2022 05:53:51 GMT+0500 (Узбекистан, стандартное время)"
+    },
+    {
+        "videoId": 4,
+        "userId": 1,
+        "videoTitle": "olma",
+        "videoUrl": "/videos/164929327901616492925674272.mp4",
+        "videoSize": "1.3",
+        "videoCreatedAt": "Thu Apr 07 2022 06:01:19 GMT+0500 (Узбекистан, стандартное время)"
+    },
+    {
+        "videoId": 5,
+        "userId": 2,
+        "videoTitle": "dsafadfs",
+        "videoUrl": "/videos/1649293546396Y2Mate.is-Pierre-EmerickAubameyangGoal2022Napoli2-4Barcelona-9ANlOHKC9XQ-1080p-1645769049002.mp4",
+        "videoSize": "3.9",
+        "videoCreatedAt": "Thu Apr 07 2022 06:05:46 GMT+0500 (Узбекистан, стандартное время)"
+    }
+]

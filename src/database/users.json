@@ -1,0 +1,16 @@
+[
+    {
+        "userId": 1,
+        "username": "Zeliniskiy",
+        "profileImg": "/images/1649292630544unnamed.png",
+        "password": "25f639281c51eb453ab0ffbe9727cbf92613cbd11b53f11bfec78bf62e4ec120",
+        "userCreatedAt": "Thu Apr 07 2022 05:50:30 GMT+0500 (Узбекистан, стандартное время)"
+    },
+    {
+        "userId": 2,
+        "username": "Axmoqkalla",
+        "profileImg": "/images/1649293531303unnamed.png",
+        "password": "c5b4c0cd3559ae3b651f8e905812d087566792ef982adb27bd05d57c0c99c0a0",
+        "userCreatedAt": "Thu Apr 07 2022 06:05:31 GMT+0500 (Узбекистан, стандартное время)"
+    }
+]
